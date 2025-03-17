@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<WatchFace width="450" height="450">
+  <!-- TODO: Add UserConfigurations here -->
+
+  <Scene>
+    <!-- TODO: Add the background design here -->
+
+    <!-- TODO: Add the Android logo -->
+
+    <!-- TODO: Add the date/time element here -->
+
+    <!-- TODO: Add the step count element here -->
+
+    <!-- TODO: Add the main clock here -->
+    <!-- TODO: Remove this Hello, World example! -->
+    <PartText x="0" y="0" width="450" height="450">
+      <Text>
+        <Font family="SYNC_TO_DEVICE" size="48">Hello, World!</Font>
+      </Text>
+    </PartText>
+
+  </Scene>
+</WatchFace>
